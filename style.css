@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.logoName {
+    font-size: 24px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.secondSOmething {
+    display: flex;
+    justify-content: space-between;
+}
